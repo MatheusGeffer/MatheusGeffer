@@ -1,0 +1,4 @@
+- Olá, sou Matheus Geffer
+- Estou interessado em práticar e aprofundar meus conhecimentos em programação
+- Atualmete estou aprendendo Python (Flask, Analise de Dados, Automação e POO)e me introduzindo ao HTML
+- Procuro uma oportunidade de estágio para desenvolver meus conhecimentos 
